@@ -1,4 +1,4 @@
 pyrocms-distribution
 ====================
 
-The official PyroCMS distribution addon for Streams.
+The official PyroCMS distribution for Streams.
