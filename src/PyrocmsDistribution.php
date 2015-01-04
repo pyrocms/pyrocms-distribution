@@ -13,4 +13,17 @@ use Anomaly\StreamsDistribution\StreamsDistribution;
 class PyrocmsDistribution extends StreamsDistribution
 {
 
+    /**
+     * The default standard theme.
+     *
+     * @var string
+     */
+    protected $standardTheme = 'Anomaly\PyrocmsTheme\PyrocmsTheme';
+
+    /**
+     * The default admin theme.
+     *
+     * @var string
+     */
+    protected $adminTheme = 'Anomaly\PyrocmsTheme\PyrocmsTheme';
 }
