@@ -9,7 +9,7 @@
     {{ html_image(image_path('theme::img/logo.png'), null, {'width': '128'}) }}
 </a>
 
-<h1>Streams is ready.</h1>
+<h1>{{ trans(distribution().getName()) }} is ready.</h1>
 
 {{ html_link('admin/login', trans('streams::button.login'), {'class': 'btn btn-success'}) }}
 
