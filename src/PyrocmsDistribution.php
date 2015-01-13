@@ -26,4 +26,5 @@ class PyrocmsDistribution extends StreamsDistribution
      * @var string
      */
     protected $adminTheme = 'Anomaly\PyrocmsTheme\PyrocmsTheme';
+
 }

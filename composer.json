@@ -2,7 +2,13 @@
     "name": "anomaly/pyrocms-distribution",
     "type": "streams-addon",
     "description": "The official PyroCMS distribution for Streams.",
-    "keywords": ["streams-addon", "streams", "distribution", "pyrocms", "laravel"],
+    "keywords": [
+        "streams-addon",
+        "streams",
+        "distribution",
+        "pyrocms",
+        "laravel"
+    ],
     "homepage": "http://anomaly.is/",
     "license": "MIT",
     "authors": [
