@@ -18,13 +18,13 @@ class PyrocmsDistribution extends StreamsDistribution
      *
      * @var string
      */
-    protected $standardTheme = 'Anomaly\PyrocmsTheme\PyrocmsTheme';
+    protected $standardTheme = 'anomaly.theme.pyrocms';
 
     /**
      * The default admin theme.
      *
      * @var string
      */
-    protected $adminTheme = 'Anomaly\PyrocmsTheme\PyrocmsTheme';
+    protected $adminTheme = 'anomaly.theme.pyrocms';
 
 }
